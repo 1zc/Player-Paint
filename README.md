@@ -1,6 +1,6 @@
 # Player Paint
 
-This is a standalone plugin intended to provide the +paint feature to players for visibility and to mark landmarks, with decals being fully client-sided. This is ideal for movement game-mode servers that want to provide the feature to players, but do not want it to be abused to destroy visibility in public servers! 
+This is a standalone plugin intended to provide the +paint feature to players for visibility and to mark landmarks, with decals being fully client-sided. This is ideal for movement game-mode servers that want to provide the feature to players, but do not want it to be abused to destroy visibility and cause chaos in public servers! 
 
 ## Usage:
 
@@ -9,11 +9,11 @@ This is a standalone plugin intended to provide the +paint feature to players fo
 * `sm_paintoptions` will open the options menu, which can be used to access options to change paint colour and size.
 * `sm_paintcolour` (or `sm_paintcolor`) will directly open the paint colour settings menu.
 * `sm_paintsize` will directly open the paint size settings menu.
-* `sm_clearpaint` will tell you how to clear decals, since I couldn't figure out how to make the plugin force clear decals for the player. Unlucky!
+* `sm_clearpaint` will tell you how to clear decals, since I couldn't figure out how to make the plugin force clear decals for the player. :P
 
 This plugin uses clientprefs to store settings, so player's paint settings are remembered when they join the server. 
 
-Players have a choice between 14 colours, and 3 sizes! 
+Players can choose from 14 colours and 3 size options! 
 ![](https://infra.s-ul.eu/xc7Q48Ki)
 
 ## Installation:

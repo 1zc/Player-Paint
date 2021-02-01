@@ -16,7 +16,7 @@ This plugin uses clientprefs to store settings, so player's paint settings are r
 
 ### Installation:
 
-* Download the plugin and unzip it: https://github.com/1zc/Player-Paint/releases/latest
+* Download the plugin and unzip it: https://github.com/1zc/Player-Paint/archive/main.zip
 * Drop the `materials` and `addons` folders into your server's `csgo` folder.
 * Drop the `materials` folder into your CSGO FastDL, if you use one.
 

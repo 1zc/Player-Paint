@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+    "$basetexture" "decals/paint/paint_decal"
+    "$decal" 1
+    "$decalscale" 1.2
+    "$translucent" 1
+	"$color" "{0 100 0}"
+}

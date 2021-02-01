@@ -1,0 +1,97 @@
+"Phrases"
+{
+	"PREFIX"
+	{
+		"en"		"{default}[{darkblue}GFL{default}]"
+	}
+
+    "NoAccess"
+    {
+        "en"        "{darkred}You do not have access to this command."
+    }
+	
+    "paint_red"
+    {
+        "en"        "Red"
+    }
+
+    "paint_orange"
+    {
+        "en"        "Orange"
+    }
+
+    "paint_yellow"
+    {
+        "en"        "Yellow"
+    }
+
+    "paint_white"
+    {
+        "en"        "White"
+    }
+
+    "paint_lightblue"
+    {
+        "en"        "Light Blue"
+    }
+
+    "paint_blue"
+    {
+        "en"        "Blue"
+    }
+
+    "paint_cyan"
+    {
+        "en"        "Cyan"
+    }
+
+    "paint_green"
+    {
+        "en"        "Green"
+    }
+
+    "paint_darkgreen"
+    {
+        "en"        "Dark Green"
+    }
+
+    "paint_purple"
+    {
+        "en"        "Purple"
+    }
+
+    "paint_lightpink"
+    {
+        "en"        "Light Pink"
+    }
+
+    "paint_pink"
+    {
+        "en"        "Pink"
+    }
+
+    "paint_brown"
+    {
+        "en"        "Brown"
+    }
+
+    "paint_black"
+    {
+        "en"        "Black"
+    }
+
+    ""
+    {
+        "en"        "Small"
+    }
+    
+    "_med"
+    {
+        "en"        "Medium"
+    }
+
+    "_large"
+    {
+        "en"        "Large"
+    }
+}

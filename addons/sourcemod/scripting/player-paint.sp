@@ -48,7 +48,7 @@ Menu    g_hPaintSizeMenu;
 Menu 	g_hPaintOptionsMenu;
 int     g_PlayerPaintColour[MAXPLAYERS + 1];
 int     g_PlayerPaintSize[MAXPLAYERS + 1];
-int		gI_Decals[sizeof(gC_PaintColors)][sizeof(gC_PaintSizePostfix)];
+int	gI_Decals[sizeof(gC_PaintColors)][sizeof(gC_PaintSizePostfix)];
 float 	gF_LastPaintPos[MAXPLAYERS + 1][3];
 bool 	gB_IsPainting[MAXPLAYERS + 1];
 

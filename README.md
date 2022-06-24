@@ -22,6 +22,10 @@ Players can choose from 14 colours and 3 size options!
 * Drop the `materials` and `addons` folders into your server's `csgo` folder.
 * Drop the `materials` folder into your CSGO FastDL, if you use one.
 
+## Compiling:
+
+You'll need the [MultiColors](https://forums.alliedmods.net/showthread.php?t=247770) include. This plugin works on SM 1.10, haven't tested on 1.11.
+
 ## Credits:
 
 * [The Paint plugin by SlidyBat.](https://forums.alliedmods.net/showthread.php?p=2541664)
